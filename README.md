@@ -31,28 +31,27 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  
+
   <table>
     <tr>
-      <td align="center" valign="top">
-        
-        <img src="https://github-readme-stats.vercel.app/api?username=SaiGanesh1809&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SaiGanesh1809's GitHub Stats" />
-        
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=SaiGanesh1809&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
-      <td align="center" valign="top">
-        
+      <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiGanesh1809&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-        
       </td>
     </tr>
   </table>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiGanesh1809&theme=tokyonight" alt="Profile Summary Card" />
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiGanesh1809&theme=tokyonight" alt="GitHub Profile Summary" />
 
 </div>
+
 
 
 ---
