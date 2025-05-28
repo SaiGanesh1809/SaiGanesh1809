@@ -31,12 +31,29 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiGanesh1809&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaiGanesh1809&theme=radical" width="48%" />
-</p>
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        
+        <img src="https://github-readme-stats.vercel.app/api?username=SaiGanesh1809&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SaiGanesh1809's GitHub Stats" />
+        
+      </td>
+      <td align="center" valign="top">
+        
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiGanesh1809&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiGanesh1809&theme=tokyonight" alt="Profile Summary Card" />
+
+</div>
+
 
 ---
 
