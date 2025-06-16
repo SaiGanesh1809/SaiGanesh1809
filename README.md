@@ -11,8 +11,6 @@
 
 - 📊 Passionate about **Data Analysis**, **Databases**, and **Machine Learning**
 - 🛠️ I enjoy solving real-world problems using data and code
-- 🔭 Currently working on:
-  - 📈 [Amazon Prime Dashboard](https://github.com/SaiGanesh1809/Amazon_titles_DashBoard)
 - 📚 Always learning new tools and techniques in tech and analytics
 
 ---
